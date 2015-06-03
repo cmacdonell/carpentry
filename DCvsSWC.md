@@ -22,7 +22,7 @@ What you will get from either bootcamp
 --------------------------------------
 Before we dive into differences, a brief word on the similarities.  Both SWC
 and DC are needed, and either bootcamp will offer important skills that are
-beneficial to people with any of the "challenges" mentioned above.  In
+beneficial to people with any of the tasks and challenges mentioned above.  In
 particular, I think there are important benefits that
 come from the carpentry bootcamps regardless of the particular skills taught.
 
@@ -58,7 +58,7 @@ folk wherever they work.
 ***Tools***
 
 The majority of tools taught between the two bootcamps are very similar - bash,
-SQL and regular expressions and the CSV data format can be covered well in both.  
+SQL, git, regular expressions and the CSV data format can be covered well in both.  
 A discrepancy comes in the programming language, R vs. Python.  Python is taught
 more often in SWC, and R in DC.  However, both types of bootcamps have taught either.
 So the difference really comes in what attendees want to be able to do with the
@@ -166,7 +166,7 @@ will take something away from either bootcamp.
 As I continue to teach both bootcamps, I'm sure I'll gain greater
 insight, but I hope the above is useful.
 
-If I can offer one more common trait
+If I can offer one more common outcome
 of both bootcamps, I would say it is **an appreciation of the "carpenters"**.
 Like any work, writing programs and wrangling data is often a frustrating task.
 Hardware and software
