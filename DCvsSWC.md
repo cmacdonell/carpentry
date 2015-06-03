@@ -10,15 +10,13 @@ my first [Data Carpentry](http://datacarpentry.org) (DC) workshop last week.
 
 Teaching this bootcamp gave me some insight into the audience of DC.  While one
 should be careful of conclusions drawn from a single sample, this audience
-was broad - physical scientists, digital humanities researchers and librarians.
+was broad - researchers from physical scientists, digital humanities and libraries.
 Another interesting
 aspect was that this bootcamp was held in parallel with a Software Carpentry
 bootcamp following the [HASTAC 2015](http://www.hastac2015.org) conference, so
 attendees had a choice, so this got me thinking "How do you decide?".  Whether
 an individual choosing to attend or an organization deciding which type of workshop
 to host.  Perhaps I can help.
-
-
 
 What you will get from either bootcamp
 --------------------------------------
@@ -60,12 +58,11 @@ folk wherever they work.
 ***Tools***
 
 The majority of tools taught between the two bootcamps are very similar - bash,
-SQL and
-regular expressions and the CSV data format can be covered well in both.  
+SQL and regular expressions and the CSV data format can be covered well in both.  
 A discrepancy comes in the programming language, R vs. Python.  Python is taught
 more often in SWC, and R in DC.  However, both types of bootcamps have taught either.
-So the difference really comes in what attendees want to be able to do, and this
-is where the bootcamps diverge, so let's get on to choosing between them.
+So the difference really comes in what attendees want to be able to do with the
+tools, and this is where the bootcamps diverge, so let's get on to choosing between them.
 
 Choosing Software Carpentry
 ---------------------------
