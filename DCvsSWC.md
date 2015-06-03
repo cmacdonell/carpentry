@@ -1,6 +1,6 @@
 How to choose between Software Carpentry and Data Carpentry
 ===========================================================
-**(or things I think I think)**
+**(or things I think I think about Software and Data Carpentry)**
 
 by ***Cam Macdonell*** (@cjmacdonell)
 
