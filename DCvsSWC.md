@@ -11,9 +11,9 @@ was broad - physical scientists, digital humanities researchers and librarians.
 Another interesting
 aspect was that this bootcamp was held in parallel with a Software Carpentry
 bootcamp following the [HASTAC 2015](http://www.hastac2015.org) conference, so
-attendees had a choice, so this got me thinking "How do can one decide?".  Whether
+attendees had a choice, so this got me thinking "How do you decide?".  Whether
 an individual choosing to attend or an organization deciding which type of workshop
-to host, perhaps I can help?
+to host.  Perhaps I can help.
 
 **Choosing Software Carpentry**
 
