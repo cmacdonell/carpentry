@@ -1,4 +1,5 @@
 How to choose between Software Carpentry and Data Carpentry
+===========================================================
 
 I've been a certified [Software Carpentry](http://software-carpentry.org)
 instructor for about 2 years.  Last week, I had the privilege of teaching
