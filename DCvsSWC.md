@@ -15,6 +15,46 @@ attendees had a choice, so this got me thinking "How do you decide?".  Whether
 an individual choosing to attend or an organization deciding which type of workshop
 to host.  Perhaps I can help.
 
+
+**What you will get from either bootcamp**
+
+Before we dive into differences, a brief word on the similarities.  Both SWC
+and DC are needed, and either bootcamp will offer important skills that are
+beneficial to people with any of the "challenges" mentioned above.  In
+particular, I think there are three less tangible but important benefits that
+come from the carpentry bootcamps regardless of the particular skills taught.
+
+***An understanding of computation***
+
+Experienced programmers and data scientists understand that any data stored on
+computers can be accessed and manipulated with the right tools.  As well, there
+is always "more than one way to do it" with
+computers.  I believe that bootcamps will always help to de-mystify the kinds of tasks
+we all rely on computers for - communicating, calculating and illustrating.
+Windows, Mac or Linux; Python or R; there is a common thread running through all of
+it.
+
+***Analyzing data***
+
+Both bootcamps are suited to learners who want to analyze data.  Calculating
+any mixture of sums, products, means, medians, modes and presenting that data
+in text or graphically.  Doing these tasks relies on the tools of the language
+(R or Python), but both can do it.  In both bootcamps you'll learn about loading
+data into your own program, using variables, calling functions and outputting your
+results, simple or complex as they may be.
+
+***Learning the lingo***
+
+It may seem insignifcant, but some workshop attendees I've spoken with are most
+grateful just for knowing that after a bootcamp they
+will be more confident when talking with other researchers, programmers or
+database admins about problems they're having.  They come away with a better
+grasp of the terminology and tasks and now
+are less concerned about sounding foolish when in discussion with the computer
+folk wherever they work.
+
+Ok, enough of "we're all in this together", let's get on to choosing between them.
+
 **Choosing Software Carpentry**
 
 ***Your experience***
@@ -39,8 +79,8 @@ at it, then SWC is for you.
 
 Another metric to help you decide the bootcamp is the kind of tasks you or your
 audience is interested in.  If those activities require
-"General Purpose Programming", then SWC may still be the right choice.  Why?
-because SWC teaches Python and Python is a general-purpose programing language.
+"General Purpose Programming", then SWC is the right choice.  Why?
+Because SWC teaches Python and Python is a general-purpose programing language.
 What kind of tasks require general-purpose programming? Here's a brief list that is common
 among attendees:
 
@@ -94,46 +134,24 @@ inconsitent formatting and storage.
 
 ***Your tasks***
 
-The tasks of a Data Carpentry attendee would typically sound something like:
+The tasks a Data Carpentry attendee would hope to learn typically sound something like:
 
+* Statistically analyzing data and producing graphs
 * Maintaining and preserving data
 * Making data files consistant so they can be easily analyzed
 * Storing research data so it can be reused
-* Calculating statistics on data sets
 * Moving non-digital data (print, books or images) to digital formats
 * Helping researchers access data
 
 I believe the strength of Data Carpentry is de-mystifying data and teaching
 very practical lessons and tools to make working with data easier and more efficient.
 
-**What you will get from either bootcamp**
+***Summary***
 
-Both SWC and DC are needed, and either bootcamp will offer important skills that are
-beneficial to people with any of the "challenges" mentioned above.  In particular, I think
-there are three less tangible but important benefits that come from the carpentry
-bootcamps regardless of the particular skills taught.
-
-***An understanding of computation***
-
-Experienced programmers and data scientists understand that any data stored on
-computers is accessible.  As well, there is always "more than one way to do it" with
-computers.  I believe that bootcamps will always help to demystify the kinds of tasks
-we all rely on computers for - communicating, calculating and illustrating.
-Windows, Mac or Linux; Python or R; there is a common thread running through all of
-it.
-
-***Learning the lingo***
-
-It may seem insignifcant, but some workshop attendees I've spoken are most
-grateful just for knowing that after a bootcamp they
-will be more confident when talking with other researchers, programmers or
-database admins about problems they're have.  They come away with a better
-grasp of the terminology and tasks and now
-are less concerned about sounding foolish when in discussion with the computer
-folk wherever they work.
-
-***An appreciation of the "carpenters"***
-
+I believe the above is at least a first step to disambiguating Software and
+Data Carpentry.  As I continue to teach both I'm sure I'll gain greater
+insight, but I hope the above is useful.  If I can offer one more common trait
+of both bootcamps, I would say it is *an appreciation of the "carpenters"*.
 Like any work, writing programs and wrangling data is often a frustrating task.
 Hardware and software
 can be finicky, poorly designed or confusing in operation.  Often a divide can occur
