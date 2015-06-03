@@ -23,7 +23,7 @@ The established audience for Software Carpentry is labratory scientists who find
 themselves programming without any training.  They want to learn how to
 write better programs.  I would argue the top three lessons of SWC are
 
-* more advanced features of Python
+* advanced features of Python
 * version control
 * storing data in SQL
 
