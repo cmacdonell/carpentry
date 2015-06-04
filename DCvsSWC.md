@@ -22,9 +22,9 @@ What you will get from either bootcamp
 --------------------------------------
 Before we dive into differences, a brief word on the similarities.  Both SWC
 and DC are needed, and either bootcamp will offer important skills that are
-beneficial to people with any of the tasks and challenges mentioned above.  In
-particular, I think there are important benefits that
-come from the carpentry bootcamps regardless of the particular skills taught.
+beneficial to people with any of the tasks and challenges mentioned below.
+There are important benefits that come from the carpentry bootcamps regardless
+of the particular skills taught.
 
 ***An understanding of computation***
 
